@@ -1,0 +1,24 @@
+# Core Data Science Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+pytorch-tabnet
+
+# Deep Learning
+torch
+torchvision
+
+# Jupyter
+jupyter
+notebook
+
+# Optional: Visualization Enhancements
+plotly
+
+# Performance
+tqdm
